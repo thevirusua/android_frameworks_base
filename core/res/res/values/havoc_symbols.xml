@@ -314,9 +314,6 @@
   <!-- Vendor mismatched fingerprint warning -->
   <java-symbol type="string" name="system_error_vendorprint" />
 
-  <!-- Whether device has a physical display cutout -->
-  <java-symbol type="bool" name="config_physicalDisplayCutout" />
-
   <!-- EdgeGesture service -->
   <java-symbol type="dimen" name="edge_gesture_trigger_distance" />
   <java-symbol type="dimen" name="edge_gesture_perpendicular_distance" />
